@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "santhosh",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.5.2",
+    "mysql": "^2.14.1"
+  }
+}
